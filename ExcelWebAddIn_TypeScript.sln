@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWebAddIn_TypeScript", "ExcelWebAddIn_TypeScript\ExcelWebAddIn_TypeScript.csproj", "{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWebAddIn_TypeScriptWeb", "ExcelWebAddIn_TypeScriptWeb\ExcelWebAddIn_TypeScriptWeb.csproj", "{396B6B17-353B-4799-AE85-AC936D6E00DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB7A67FC-CA13-4623-B6E4-D2DC47C8D4B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{396B6B17-353B-4799-AE85-AC936D6E00DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{396B6B17-353B-4799-AE85-AC936D6E00DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{396B6B17-353B-4799-AE85-AC936D6E00DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{396B6B17-353B-4799-AE85-AC936D6E00DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EAA7B95-A21C-415F-9083-6D23C9559B52}
+	EndGlobalSection
+EndGlobal
